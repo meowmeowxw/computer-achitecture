@@ -1,4 +1,4 @@
-# Computer-Architecture-Assembly-x86
+# Computer Architecture Class and Assembly x86
 
 ## ENG
 
