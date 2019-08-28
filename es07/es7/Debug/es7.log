@@ -1,5 +1,0 @@
-﻿  main.c
-\\campusfc.dir.unibo.it\share\utentiingisi\studenti\giovanni.disanti\documents\visual studio 2015\projects\es7\es7\main.c(31): warning C4018: '<': signed/unsigned mismatch
-\\campusfc.dir.unibo.it\share\utentiingisi\studenti\giovanni.disanti\documents\visual studio 2015\projects\es7\es7\main.c(29): warning C4102: 'fine': unreferenced label
-  es7.vcxproj -> \\campusfc.dir.unibo.it\share\UtentiIngISI\studenti\giovanni.disanti\Documents\Visual Studio 2015\Projects\es7\Debug\es7.exe
-  es7.vcxproj -> \\campusfc.dir.unibo.it\share\UtentiIngISI\studenti\giovanni.disanti\Documents\Visual Studio 2015\Projects\es7\Debug\es7.pdb (Full PDB)
