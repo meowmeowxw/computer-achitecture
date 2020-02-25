@@ -1,0 +1,14 @@
+j = ebx
+i = edx
+do {
+    if (strncmp(str1, stringa+j, len(str1)) == 0) {
+        strncpy(risultato+i, str2, len(str2))
+        j += len(str1)
+        i += len(str2)
+    } else {
+        risultato+1 = stringa+j
+        i++;
+        j++;
+    }
+}while (j < len(stringa) - len(str1));
+
